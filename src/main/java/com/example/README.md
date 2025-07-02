@@ -1,4 +1,4 @@
-# MyJavaProject
+# Java
 
 ## Opis projektu
 Prosty projekt w Javie demonstrujący podstawową strukturę oraz komendy Git.
